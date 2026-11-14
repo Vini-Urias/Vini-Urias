@@ -9,3 +9,5 @@ Engenheiro da Computação formado pelo IMT e apaixonado por Ciência de Dados. 
 *  **[Diagnóstico de Câncer de Mama com Machine Learning](https://colab.research.google.com/drive/1ng9dHrpstuRlEI2ikCInKKHBhvIGiB8V?usp=sharing)**
   
     * *Modelo de Machine Learning para diagnóstico de câncer de mama, treinado com foco na redução de falsos negativos (alto Recall) para garantir a segurança dos pacientes.*
+
+*  **[Precificação com Machine Learning](https://colab.research.google.com/drive/1uyt_R9tl_-_nQIHCxBWqRg35JPQJMDpr)**
